@@ -1,0 +1,36 @@
+{
+ "autoPublish": true,
+ "draft": false,
+ "descendants": [],
+ "firstCommentText": "",
+ "hasNotReadNotes": false,
+ "shortener": false,
+ "smartLinkData": {
+  "ids": []
+ },
+ "media": [
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c08/slide-01.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c08/slide-02.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c08/slide-03.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c08/slide-04.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c08/slide-05.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c08/slide-06.png"
+ ],
+ "mediaAltText": [],
+ "providers": [
+  {
+   "network": "tiktok"
+  }
+ ],
+ "publicationDate": {
+  "dateTime": "2026-11-19T12:00:00",
+  "timezone": "America/Sao_Paulo"
+ },
+ "text": "o problema nunca foi ter mensagem automática. é ter mensagem automática que parece robô.\n\npassa e compara. qual dessas o seu WhatsApp manda hoje?\n\nme conta nos comentários.\n\n#automacaowhatsapp #chatbot #atendimentoaocliente #experienciadocliente",
+ "tiktokData": {
+  "privacyOption": "PUBLIC_TO_EVERYONE",
+  "autoAddMusic": true,
+  "photoCoverIndex": 0,
+  "title": "Mensagem automática que espanta x que vende"
+ }
+}

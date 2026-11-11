@@ -1,0 +1,31 @@
+{
+ "videoThumbnailUrl": "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/videos/v11-capa.jpg",
+ "autoPublish": true,
+ "draft": false,
+ "descendants": [],
+ "firstCommentText": "",
+ "hasNotReadNotes": false,
+ "shortener": false,
+ "smartLinkData": {
+  "ids": []
+ },
+ "media": [
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/videos/v11.mp4"
+ ],
+ "mediaAltText": [],
+ "providers": [
+  {
+   "network": "tiktok"
+  }
+ ],
+ "publicationDate": {
+  "dateTime": "2026-11-26T19:00:00",
+  "timezone": "America/Sao_Paulo"
+ },
+ "text": "amanhã seu WhatsApp vai lotar. cada \"alguém aí?\" sem resposta é venda indo pro concorrente.\n\n3 coisas pra fazer hoje à noite. amanhã cedo tem o checklist completo aqui.\n\nsegue pra não perder.\n\n#blackfriday #vendaspelowhatsapp #automacaowhatsapp #lojistas",
+ "tiktokData": {
+  "privacyOption": "PUBLIC_TO_EVERYONE",
+  "isAigc": false,
+  "title": "Black Friday é amanhã. Seu WhatsApp aguenta?"
+ }
+}

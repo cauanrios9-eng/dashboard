@@ -9,18 +9,15 @@
   "ids": []
  },
  "media": [
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c04/slide-01.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c04/slide-02.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c04/slide-03.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c04/slide-04.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c04/slide-05.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c04/slide-06.png"
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c04/slide-01.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c04/slide-02.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c04/slide-03.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c04/slide-04.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c04/slide-05.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c04/slide-06.png"
  ],
  "mediaAltText": [],
  "providers": [
-  {
-   "network": "instagram"
-  },
   {
    "network": "tiktok"
   }
@@ -30,10 +27,6 @@
   "timezone": "America/Sao_Paulo"
  },
  "text": "mesma pergunta, mesmo cliente, mesma hora. a diferença foi só quem respondeu.\n\na maior parte das vendas perdidas no WhatsApp não aparece em lugar nenhum. a pessoa só some.\n\nsegue a CR Automações pra ver como montar isso na sua empresa.\n\n#vendaspelowhatsapp #automacaowhatsapp #empreendedor #atendimento",
- "instagramData": {
-  "type": "POST",
-  "isAiGenerated": false
- },
  "tiktokData": {
   "privacyOption": "PUBLIC_TO_EVERYONE",
   "autoAddMusic": true,

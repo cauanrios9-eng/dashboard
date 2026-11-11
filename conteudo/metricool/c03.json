@@ -9,18 +9,15 @@
   "ids": []
  },
  "media": [
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c03/slide-01.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c03/slide-02.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c03/slide-03.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c03/slide-04.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c03/slide-05.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c03/slide-06.png"
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c03/slide-01.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c03/slide-02.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c03/slide-03.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c03/slide-04.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c03/slide-05.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c03/slide-06.png"
  ],
  "mediaAltText": [],
  "providers": [
-  {
-   "network": "instagram"
-  },
   {
    "network": "tiktok"
   }
@@ -30,10 +27,6 @@
   "timezone": "America/Sao_Paulo"
  },
  "text": "\"robô espanta cliente\" é o mito que mais escuto. e faz sentido: todo mundo já caiu num menu de \"digite 1\" infinito.\n\nmas o problema nunca foi a automação. é automação mal feita.\n\nqual desses você já pensou? me conta nos comentários.\n\n#automacao #atendimentoaocliente #pequenasempresas #gestaodeempresas",
- "instagramData": {
-  "type": "POST",
-  "isAiGenerated": false
- },
  "tiktokData": {
   "privacyOption": "PUBLIC_TO_EVERYONE",
   "autoAddMusic": true,

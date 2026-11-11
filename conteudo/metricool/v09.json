@@ -1,0 +1,31 @@
+{
+ "videoThumbnailUrl": "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/videos/v09-capa.jpg",
+ "autoPublish": true,
+ "draft": false,
+ "descendants": [],
+ "firstCommentText": "",
+ "hasNotReadNotes": false,
+ "shortener": false,
+ "smartLinkData": {
+  "ids": []
+ },
+ "media": [
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/videos/v09.mp4"
+ ],
+ "mediaAltText": [],
+ "providers": [
+  {
+   "network": "tiktok"
+  }
+ ],
+ "publicationDate": {
+  "dateTime": "2026-11-22T11:00:00",
+  "timezone": "America/Sao_Paulo"
+ },
+ "text": "horário vazio porque o cliente esqueceu é prejuízo que dá pra evitar.\n\no lembrete automático sai na véspera, pede confirmação e libera o horário se a pessoa cancelar.\n\ncomenta AGENDA que eu te mostro funcionando.\n\n#agendamento #automacaowhatsapp #clinicas #saloesdebeleza",
+ "tiktokData": {
+  "privacyOption": "PUBLIC_TO_EVERYONE",
+  "isAigc": false,
+  "title": "Cliente marcou e não apareceu?"
+ }
+}

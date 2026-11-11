@@ -9,19 +9,16 @@
   "ids": []
  },
  "media": [
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c05/slide-01.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c05/slide-02.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c05/slide-03.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c05/slide-04.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c05/slide-05.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c05/slide-06.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c05/slide-07.png"
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c05/slide-01.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c05/slide-02.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c05/slide-03.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c05/slide-04.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c05/slide-05.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c05/slide-06.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c05/slide-07.png"
  ],
  "mediaAltText": [],
  "providers": [
-  {
-   "network": "instagram"
-  },
   {
    "network": "tiktok"
   }
@@ -31,10 +28,6 @@
   "timezone": "America/Sao_Paulo"
  },
  "text": "se você não sabe em que etapa está cada cliente que te chamou essa semana, você está vendendo no escuro.\n\n4 colunas resolvem: novo contato, interessado, agendado, concluído.\n\ndá pra fazer até numa planilha. no painel da CR é arrastar o cartão. comenta FUNIL que eu te mostro funcionando.\n\n#crm #funildevendas #vendaspelowhatsapp #pequenasempresas",
- "instagramData": {
-  "type": "POST",
-  "isAiGenerated": false
- },
  "tiktokData": {
   "privacyOption": "PUBLIC_TO_EVERYONE",
   "autoAddMusic": true,

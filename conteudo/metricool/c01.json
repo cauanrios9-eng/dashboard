@@ -9,19 +9,16 @@
   "ids": []
  },
  "media": [
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c01/slide-01.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c01/slide-02.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c01/slide-03.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c01/slide-04.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c01/slide-05.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c01/slide-06.png",
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/carrosseis/c01/slide-07.png"
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c01/slide-01.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c01/slide-02.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c01/slide-03.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c01/slide-04.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c01/slide-05.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c01/slide-06.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c01/slide-07.png"
  ],
  "mediaAltText": [],
  "providers": [
-  {
-   "network": "instagram"
-  },
   {
    "network": "tiktok"
   }
@@ -31,10 +28,6 @@
   "timezone": "America/Sao_Paulo"
  },
  "text": "você não perde cliente só por preço. muitas vezes perde por demora.\n\npassa o carrossel e conta quantos desses sinais acontecem aí na sua empresa. o 4º é o mais comum e quase ninguém percebe.\n\nse marcou 2 ou mais, comenta AUTOMAÇÃO que eu te explico como resolver sem contratar mais gente.\n\n#automacaowhatsapp #atendimentoaocliente #pequenasempresas #vendaspelowhatsapp",
- "instagramData": {
-  "type": "POST",
-  "isAiGenerated": false
- },
  "tiktokData": {
   "privacyOption": "PUBLIC_TO_EVERYONE",
   "autoAddMusic": true,

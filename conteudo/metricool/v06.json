@@ -1,5 +1,5 @@
 {
- "videoThumbnailUrl": "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/videos/v06-capa.jpg",
+ "videoThumbnailUrl": "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/videos/v06-capa.jpg",
  "autoPublish": true,
  "draft": false,
  "descendants": [],
@@ -10,13 +10,10 @@
   "ids": []
  },
  "media": [
-  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/781fbeaebb41769f80aa577b188822a898447670/conteudo/midia/videos/v06.mp4"
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/videos/v06.mp4"
  ],
  "mediaAltText": [],
  "providers": [
-  {
-   "network": "instagram"
-  },
   {
    "network": "tiktok"
   }
@@ -26,11 +23,6 @@
   "timezone": "America/Sao_Paulo"
  },
  "text": "você não precisa entender de tecnologia pra ter um atendimento que responde sozinho.\n\ndiagnóstico, fluxo com a cara da sua empresa, testes e um painel pra acompanhar. é assim que funciona.\n\ncomenta AUTOMAÇÃO ou chama no link da bio.\n\n#automacaowhatsapp #chatbot #pequenasempresas #transformacaodigital",
- "instagramData": {
-  "type": "REEL",
-  "showReelOnFeed": true,
-  "isAiGenerated": false
- },
  "tiktokData": {
   "privacyOption": "PUBLIC_TO_EVERYONE",
   "isAigc": false,

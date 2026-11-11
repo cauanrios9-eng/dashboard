@@ -1,0 +1,35 @@
+{
+ "autoPublish": true,
+ "draft": false,
+ "descendants": [],
+ "firstCommentText": "",
+ "hasNotReadNotes": false,
+ "shortener": false,
+ "smartLinkData": {
+  "ids": []
+ },
+ "media": [
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c11/slide-01.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c11/slide-02.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c11/slide-03.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c11/slide-04.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c11/slide-05.png"
+ ],
+ "mediaAltText": [],
+ "providers": [
+  {
+   "network": "tiktok"
+  }
+ ],
+ "publicationDate": {
+  "dateTime": "2026-11-25T12:00:00",
+  "timezone": "America/Sao_Paulo"
+ },
+ "text": "a Black Friday é sexta. se o seu WhatsApp não estiver pronto, você vai passar o dia copiando e colando.\n\n3 passos, um por dia. o primeiro dá pra fazer hoje.\n\nsegue pra ver o checklist completo na sexta.\n\n#blackfriday #vendaspelowhatsapp #lojistas #pequenasempresas",
+ "tiktokData": {
+  "privacyOption": "PUBLIC_TO_EVERYONE",
+  "autoAddMusic": true,
+  "photoCoverIndex": 0,
+  "title": "Prepare seu WhatsApp em 3 passos antes de sexta"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "videoThumbnailUrl": "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/videos/v08-capa.jpg",
+ "autoPublish": true,
+ "draft": false,
+ "descendants": [],
+ "firstCommentText": "",
+ "hasNotReadNotes": false,
+ "shortener": false,
+ "smartLinkData": {
+  "ids": []
+ },
+ "media": [
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/videos/v08.mp4"
+ ],
+ "mediaAltText": [],
+ "providers": [
+  {
+   "network": "tiktok"
+  }
+ ],
+ "publicationDate": {
+  "dateTime": "2026-11-20T19:00:00",
+  "timezone": "America/Sao_Paulo"
+ },
+ "text": "\"vou pensar e te falo\" é onde muita venda morre. não porque o cliente desistiu, mas porque ninguém chamou de novo.\n\num follow-up automático no dia seguinte resolve isso sem você precisar lembrar.\n\ncomenta AUTOMAÇÃO que eu te mostro.\n\n#followup #vendaspelowhatsapp #automacaowhatsapp #pequenasempresas",
+ "tiktokData": {
+  "privacyOption": "PUBLIC_TO_EVERYONE",
+  "isAigc": false,
+  "title": "O cliente que vai pensar não volta sozinho"
+ }
+}

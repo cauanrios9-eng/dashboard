@@ -1,0 +1,31 @@
+{
+ "videoThumbnailUrl": "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/videos/v10-capa.jpg",
+ "autoPublish": true,
+ "draft": false,
+ "descendants": [],
+ "firstCommentText": "",
+ "hasNotReadNotes": false,
+ "shortener": false,
+ "smartLinkData": {
+  "ids": []
+ },
+ "media": [
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/videos/v10.mp4"
+ ],
+ "mediaAltText": [],
+ "providers": [
+  {
+   "network": "tiktok"
+  }
+ ],
+ "publicationDate": {
+  "dateTime": "2026-11-24T19:00:00",
+  "timezone": "America/Sao_Paulo"
+ },
+ "text": "CRM parece coisa de empresa grande. mas se algum desses 3 sinais acontece aí, você já precisa de um.\n\nno painel da CR cada conversa do WhatsApp vira um cartão. é só arrastar.\n\ncomenta PAINEL pra ver.\n\n#crm #gestaodeclientes #pequenasempresas #vendaspelowhatsapp",
+ "tiktokData": {
+  "privacyOption": "PUBLIC_TO_EVERYONE",
+  "isAigc": false,
+  "title": "3 sinais de que você precisa de um CRM"
+ }
+}

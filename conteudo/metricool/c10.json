@@ -1,0 +1,36 @@
+{
+ "autoPublish": true,
+ "draft": false,
+ "descendants": [],
+ "firstCommentText": "",
+ "hasNotReadNotes": false,
+ "shortener": false,
+ "smartLinkData": {
+  "ids": []
+ },
+ "media": [
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c10/slide-01.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c10/slide-02.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c10/slide-03.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c10/slide-04.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c10/slide-05.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c10/slide-06.png"
+ ],
+ "mediaAltText": [],
+ "providers": [
+  {
+   "network": "tiktok"
+  }
+ ],
+ "publicationDate": {
+  "dateTime": "2026-11-23T12:00:00",
+  "timezone": "America/Sao_Paulo"
+ },
+ "text": "todo mundo pergunta quanto custa automatizar. quase ninguém pergunta quanto custa não automatizar.\n\nfaz a conta do carrossel com os números da sua empresa. leva 1 minuto.\n\ncomenta CONTA que eu faço com você.\n\n#gestaodeempresas #produtividade #automacaowhatsapp #empreendedorismo",
+ "tiktokData": {
+  "privacyOption": "PUBLIC_TO_EVERYONE",
+  "autoAddMusic": true,
+  "photoCoverIndex": 0,
+  "title": "Quanto custa NÃO ter automação no seu WhatsApp?"
+ }
+}

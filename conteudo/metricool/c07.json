@@ -1,0 +1,36 @@
+{
+ "autoPublish": true,
+ "draft": false,
+ "descendants": [],
+ "firstCommentText": "",
+ "hasNotReadNotes": false,
+ "shortener": false,
+ "smartLinkData": {
+  "ids": []
+ },
+ "media": [
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c07/slide-01.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c07/slide-02.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c07/slide-03.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c07/slide-04.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c07/slide-05.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/77d36fe8f939e86bfdeeef342abf10e22fe59a31/conteudo/midia/carrosseis/c07/slide-06.png"
+ ],
+ "mediaAltText": [],
+ "providers": [
+  {
+   "network": "tiktok"
+  }
+ ],
+ "publicationDate": {
+  "dateTime": "2026-11-17T12:00:00",
+  "timezone": "America/Sao_Paulo"
+ },
+ "text": "\"quanto custa?\" é a pergunta que mais chega no WhatsApp. e a resposta que mais perde venda é o preço sozinho.\n\n3 jeitos de responder que mantêm a conversa viva. o 3º é o que mais fecha.\n\nsalva pra usar hoje.\n\n#vendaspelowhatsapp #atendimentoaocliente #dicasdevendas #pequenasempresas",
+ "tiktokData": {
+  "privacyOption": "PUBLIC_TO_EVERYONE",
+  "autoAddMusic": true,
+  "photoCoverIndex": 0,
+  "title": "O que responder quando o cliente pergunta \"quanto custa?\""
+ }
+}
