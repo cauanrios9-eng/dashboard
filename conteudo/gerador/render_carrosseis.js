@@ -91,8 +91,8 @@ function html(c, s, i) {
     for (const [i, s] of c.slides.entries()) {
       await page.setContent(html(c, s, i), { waitUntil: 'networkidle' });
       await page.evaluate(() => document.fonts.ready);
-      const f = path.join(dir, `slide-${String(i + 1).padStart(2, '0')}.png`);
-      await page.screenshot({ path: f });
+      const f = path.join(dir, `slide-${String(i + 1).padStart(2, '0')}.jpg`); // TikTok só aceita JPEG/WebP
+      await page.screenshot({ path: f, type: 'jpeg', quality: 92 });
     }
     console.log(c.id, c.slides.length, 'slides');
   }

@@ -33,7 +33,7 @@ def payload(p, video):
               "title": p["cenas"][0]["texto"]}
     else:
         n = len(p["slides"])
-        media = [f'{BASE}/carrosseis/{p["id"]}/slide-{i:02d}.png' for i in range(1, n + 1)]
+        media = [f'{BASE}/carrosseis/{p["id"]}/slide-{i:02d}.jpg' for i in range(1, n + 1)]
         ig = {"type": "POST", "isAiGenerated": False}
         tt = {"privacyOption": "PUBLIC_TO_EVERYONE", "autoAddMusic": True, "photoCoverIndex": 0,
               "title": p["slides"][0]["titulo"][:90]}
@@ -82,7 +82,7 @@ for p, v in todos:
             L.append(f'- `{c["tipo"]}` ({c["dur"]}s): {t}' + (f" — {extra}" if extra else ""))
         L += ["", f'**Fala (opcional, se quiser gravar voz por cima):** {p["roteiro_fala"]}']
     else:
-        L.append(f'Mídia: `midia/carrosseis/{p["id"]}/slide-01..{len(p["slides"]):02d}.png`')
+        L.append(f'Mídia: `midia/carrosseis/{p["id"]}/slide-01..{len(p["slides"]):02d}.jpg`')
         L += ["", "**Slides:**", ""]
         for i, s in enumerate(p["slides"], 1):
             t = s.get("titulo") or s.get("mito")

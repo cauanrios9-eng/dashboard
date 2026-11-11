@@ -17,7 +17,7 @@ feita pelo conector **Metricool** (`mcp__Metricool_Social_Media_Management__*`).
 2. **Renderizar** (dentro de `conteudo/gerador/`):
    ```
    python3 exportar_json.py
-   node render_carrosseis.js [ids]   # PNG 1080x1350 em conteudo/midia/carrosseis/<id>/
+   node render_carrosseis.js [ids]   # JPG 1080x1350 (TikTok recusa PNG) em conteudo/midia/carrosseis/<id>/
    node render_videos.js [ids]       # MP4 1080x1920 30fps em conteudo/midia/videos/
    ```
    Conferir algumas imagens/quadros antes de seguir.

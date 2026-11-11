@@ -3,7 +3,7 @@
 | pasta / arquivo | o que é |
 |---|---|
 | `PLANO.md` | calendário das 2 semanas, slides, roteiros e legendas prontas |
-| `midia/carrosseis/<id>/` | slides PNG 1080×1350 (4:5) de cada carrossel |
+| `midia/carrosseis/<id>/` | slides JPG 1080×1350 (TikTok não aceita PNG) (4:5) de cada carrossel |
 | `midia/videos/<id>.mp4` | vídeos 1080×1920 (Reels/TikTok) + `<id>-capa.jpg` |
 | `metricool/<id>.json` | post pronto para o Metricool (Instagram + TikTok) |
 | `gerador/posts.py` | **fonte de todo o texto**: edite aqui e renderize de novo |
