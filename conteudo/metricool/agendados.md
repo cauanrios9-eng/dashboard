@@ -6,7 +6,7 @@ adicionando `{"network":"instagram"}` e `instagramData` (POST p/ carrossel, REEL
 
 | id | data | uuid Metricool |
 |---|---|---|
-| c01 | 11/11 10:45 | 3686784273821355904 |
+| c01 | 11/11 11:00 (republicado em JPG) | 3686784273821355904 |
 | v01 | 11/11 19:00 | -2718191200548797710 |
 | c02 | 12/11 12:00 | -8748677661918343658 |
 | v02 | 12/11 19:00 | 3506520036677799444 |
@@ -28,3 +28,5 @@ adicionando `{"network":"instagram"}` e `instagramData` (POST p/ carrossel, REEL
 | v10 | 24/11 19:00 | 1841034412631015574 |
 | c11 | 25/11 12:00 | 2788471649929087629 |
 | v11 | 26/11 19:00 | -160991727640296613 |
+
+> 11/11: o TikTok recusou PNG no 1º carrossel. Todos os carrosséis foram trocados para JPG no Metricool.

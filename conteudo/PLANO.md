@@ -39,7 +39,7 @@ CTAs de comentário (AUTOMAÇÃO, PAINEL, FUNIL) servem para puxar a conversa pr
 
 Fórmula: IG5 Listicle (saves)
 
-Mídia: `midia/carrosseis/c01/slide-01..07.png`
+Mídia: `midia/carrosseis/c01/slide-01..07.jpg`
 
 **Slides:**
 
@@ -69,7 +69,7 @@ se marcou 2 ou mais, comenta AUTOMAÇÃO que eu te explico como resolver sem con
 
 Fórmula: IG8 Steal-This Framework (saves)
 
-Mídia: `midia/carrosseis/c07/slide-01..06.png`
+Mídia: `midia/carrosseis/c07/slide-01..06.jpg`
 
 **Slides:**
 
@@ -129,7 +129,7 @@ comenta AUTOMAÇÃO que eu te mostro como fica na sua empresa.
 
 Fórmula: IG8 Steal-This Framework (saves)
 
-Mídia: `midia/carrosseis/c02/slide-01..07.png`
+Mídia: `midia/carrosseis/c02/slide-01..07.jpg`
 
 **Slides:**
 
@@ -190,7 +190,7 @@ segue pra mais ajustes de atendimento.
 
 Fórmula: IG6 Before/After (saves)
 
-Mídia: `midia/carrosseis/c08/slide-01..06.png`
+Mídia: `midia/carrosseis/c08/slide-01..06.jpg`
 
 **Slides:**
 
@@ -250,7 +250,7 @@ qual é a pergunta que você mais responde? me fala aqui.
 
 Fórmula: IG7 Myth-Buster (shares)
 
-Mídia: `midia/carrosseis/c03/slide-01..06.png`
+Mídia: `midia/carrosseis/c03/slide-01..06.jpg`
 
 **Slides:**
 
@@ -310,7 +310,7 @@ comenta AUTOMAÇÃO que eu te mostro.
 
 Fórmula: IG5 Listicle (saves)
 
-Mídia: `midia/carrosseis/c09/slide-01..08.png`
+Mídia: `midia/carrosseis/c09/slide-01..08.jpg`
 
 **Slides:**
 
@@ -402,7 +402,7 @@ comenta AGENDA que eu te mostro funcionando.
 
 Fórmula: IG6 Before/After (saves, follows)
 
-Mídia: `midia/carrosseis/c04/slide-01..06.png`
+Mídia: `midia/carrosseis/c04/slide-01..06.jpg`
 
 **Slides:**
 
@@ -431,7 +431,7 @@ segue a CR Automações pra ver como montar isso na sua empresa.
 
 Fórmula: IG2 Contrarian + exercício (shares)
 
-Mídia: `midia/carrosseis/c10/slide-01..06.png`
+Mídia: `midia/carrosseis/c10/slide-01..06.jpg`
 
 **Slides:**
 
@@ -520,7 +520,7 @@ comenta PAINEL pra ver.
 
 Fórmula: IG8 Steal-This Framework (saves)
 
-Mídia: `midia/carrosseis/c05/slide-01..07.png`
+Mídia: `midia/carrosseis/c05/slide-01..07.jpg`
 
 **Slides:**
 
@@ -550,7 +550,7 @@ dá pra fazer até numa planilha. no painel da CR é arrastar o cartão. comenta
 
 Fórmula: IG8 Framework (saves) — pré Black Friday
 
-Mídia: `midia/carrosseis/c11/slide-01..05.png`
+Mídia: `midia/carrosseis/c11/slide-01..05.jpg`
 
 **Slides:**
 
@@ -638,7 +638,7 @@ segue pra não perder.
 
 Fórmula: IG5 Listicle (saves, shares) — Black Friday
 
-Mídia: `midia/carrosseis/c06/slide-01..07.png`
+Mídia: `midia/carrosseis/c06/slide-01..07.jpg`
 
 **Slides:**
 
