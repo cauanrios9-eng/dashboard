@@ -43,10 +43,11 @@ def payload(p, video):
         "autoPublish": True, "draft": False, "descendants": [], "firstCommentText": "",
         "hasNotReadNotes": False, "shortener": False, "smartLinkData": {"ids": []},
         "media": media, "mediaAltText": [],
-        "providers": [{"network": "instagram"}, {"network": "tiktok"}],
+        "providers": [{"network": r} for r in getattr(posts, "REDES", ["instagram", "tiktok"])],
         "publicationDate": {"dateTime": p["data"], "timezone": posts.FUSO},
         "text": texto_final(p),
-        "instagramData": ig, "tiktokData": tt,
+        **({"instagramData": ig} if "instagram" in getattr(posts, "REDES", ["instagram"]) else {}),
+        "tiktokData": tt,
     }
 
 
@@ -61,7 +62,7 @@ for p, v in todos:
 
 # ---- PLANO.md
 L = [f"# Plano de conteúdo — {posts.MARCA}", "",
-     "Instagram + TikTok · 2 semanas · 6 carrosséis + 6 vídeos (Reels/TikTok).",
+     f"Redes: {', '.join(getattr(posts, 'REDES', ['instagram', 'tiktok']))} · {len(posts.CARROSSEIS)} carrosséis + {len(posts.VIDEOS)} vídeos.",
      f"Fuso: `{posts.FUSO}`. Arquivos de mídia em `conteudo/midia/`.", "",
      "## Calendário", "", "| quando | id | formato | gancho | objetivo |", "|---|---|---|---|---|"]
 for p, v in todos:

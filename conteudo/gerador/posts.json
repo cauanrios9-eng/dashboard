@@ -330,6 +330,272 @@
     "#automacaowhatsapp",
     "#lojistas"
    ]
+  },
+  {
+   "id": "c07",
+   "data": "2026-11-17T12:00:00",
+   "formula": "IG8 Steal-This Framework (saves)",
+   "slides": [
+    {
+     "tipo": "capa",
+     "kicker": "COPIA E COLA",
+     "titulo": "O que responder quando o cliente pergunta \"quanto custa?\"",
+     "sub": "a 3ª resposta é a que mais fecha"
+    },
+    {
+     "tipo": "antesdepois",
+     "n": "1",
+     "cor": "vermelho",
+     "tag": "COMO A MAIORIA RESPONDE",
+     "mito": "\"R$ 150.\"",
+     "verdade": "Preço solto, sem contexto. O cliente compara com o mais barato e some."
+    },
+    {
+     "tipo": "item",
+     "n": "1",
+     "titulo": "Preço + o que está incluso",
+     "corpo": "\"Fica R$ X e já inclui A, B e C.\" O cliente entende o valor antes de comparar."
+    },
+    {
+     "tipo": "item",
+     "n": "2",
+     "titulo": "Uma pergunta antes do preço",
+     "corpo": "\"Depende do que você precisa: é pra quando?\" Você entende o caso e mostra a opção certa."
+    },
+    {
+     "tipo": "item",
+     "n": "3",
+     "titulo": "Preço + próximo passo",
+     "corpo": "\"Fica R$ X. Tenho horário amanhã às 10h ou 15h, qual fica melhor?\" A conversa anda sozinha."
+    },
+    {
+     "tipo": "cta",
+     "titulo": "Preço nunca é a última frase.",
+     "corpo": "Sempre termine com uma pergunta ou um próximo passo. Dá pra automatizar isso.",
+     "acao": "Salva e comenta AUTOMAÇÃO"
+    }
+   ],
+   "legenda": "\"quanto custa?\" é a pergunta que mais chega no WhatsApp. e a resposta que mais perde venda é o preço sozinho.\n\n3 jeitos de responder que mantêm a conversa viva. o 3º é o que mais fecha.\n\nsalva pra usar hoje.",
+   "hashtags": [
+    "#vendaspelowhatsapp",
+    "#atendimentoaocliente",
+    "#dicasdevendas",
+    "#pequenasempresas"
+   ]
+  },
+  {
+   "id": "c08",
+   "data": "2026-11-19T12:00:00",
+   "formula": "IG6 Before/After (saves)",
+   "slides": [
+    {
+     "tipo": "capa",
+     "kicker": "BOA x RUIM",
+     "titulo": "Mensagem automática que espanta x que vende",
+     "sub": "3 exemplos lado a lado"
+    },
+    {
+     "tipo": "antesdepois",
+     "n": "RUIM",
+     "cor": "vermelho",
+     "tag": "✕ ESPANTA",
+     "mito": "\"Digite 1 para vendas, 2 para suporte...\"",
+     "verdade": "Parece central de telemarketing. A pessoa queria só saber o horário."
+    },
+    {
+     "tipo": "antesdepois",
+     "n": "BOA",
+     "cor": "verde",
+     "tag": "✓ VENDE",
+     "mito": "\"Oi! Me conta o que você precisa 😊\"",
+     "verdade": "Conversa normal. A automação entende o pedido e responde direto."
+    },
+    {
+     "tipo": "antesdepois",
+     "n": "RUIM",
+     "cor": "vermelho",
+     "tag": "✕ ESPANTA",
+     "mito": "\"Recebemos sua mensagem. Em breve retornaremos.\"",
+     "verdade": "Em breve quando? O cliente vai procurar quem responde agora."
+    },
+    {
+     "tipo": "antesdepois",
+     "n": "BOA",
+     "cor": "verde",
+     "tag": "✓ VENDE",
+     "mito": "\"Já te passo os horários livres:\"",
+     "verdade": "Resolve na hora. Se precisar de alguém da equipe, avisa quando vai ser."
+    },
+    {
+     "tipo": "cta",
+     "titulo": "Automação boa parece gente.",
+     "corpo": "Linguagem simples, resposta direta e sempre um próximo passo.",
+     "acao": "Manda pra quem escreve as mensagens aí"
+    }
+   ],
+   "legenda": "o problema nunca foi ter mensagem automática. é ter mensagem automática que parece robô.\n\npassa e compara. qual dessas o seu WhatsApp manda hoje?\n\nme conta nos comentários.",
+   "hashtags": [
+    "#automacaowhatsapp",
+    "#chatbot",
+    "#atendimentoaocliente",
+    "#experienciadocliente"
+   ]
+  },
+  {
+   "id": "c09",
+   "data": "2026-11-21T11:00:00",
+   "formula": "IG5 Listicle (saves)",
+   "slides": [
+    {
+     "tipo": "capa",
+     "kicker": "PRONTAS PRA USAR",
+     "titulo": "6 mensagens que todo WhatsApp de empresa precisa ter",
+     "sub": "salva antes que suma do seu feed"
+    },
+    {
+     "tipo": "item",
+     "n": "1",
+     "titulo": "Boas-vindas",
+     "corpo": "\"Oi! Aqui é da [empresa]. Me conta o que você precisa que eu já te ajudo.\""
+    },
+    {
+     "tipo": "item",
+     "n": "2",
+     "titulo": "Fora do horário",
+     "corpo": "\"Agora estamos fechados, mas já anotei seu pedido. Amanhã às 8h te respondo, combinado?\""
+    },
+    {
+     "tipo": "item",
+     "n": "3",
+     "titulo": "Confirmação de agendamento",
+     "corpo": "\"Fechado! [dia] às [hora]. Vou te mandar um lembrete na véspera.\""
+    },
+    {
+     "tipo": "item",
+     "n": "4",
+     "titulo": "Lembrete",
+     "corpo": "\"Passando pra lembrar: amanhã às [hora]. Confirma pra mim?\""
+    },
+    {
+     "tipo": "item",
+     "n": "5",
+     "titulo": "Pós-atendimento",
+     "corpo": "\"Obrigado pela confiança! Se puder, deixa uma avaliação pra gente: [link]\""
+    },
+    {
+     "tipo": "item",
+     "n": "6",
+     "titulo": "Reativação",
+     "corpo": "\"Oi, [nome]! Faz tempo que não te vemos por aqui. Quer que eu reserve um horário?\""
+    },
+    {
+     "tipo": "cta",
+     "titulo": "Agora imagina isso tudo saindo sozinho.",
+     "corpo": "É exatamente isso que uma automação faz, na hora certa, pra cada cliente.",
+     "acao": "Salva e comenta AUTOMAÇÃO"
+    }
+   ],
+   "legenda": "6 mensagens que resolvem a maior parte do atendimento de uma empresa pequena.\n\ncopia, troca o nome da sua empresa e usa hoje. ou deixa a automação mandar sozinha.\n\nsalva pra não perder.",
+   "hashtags": [
+    "#whatsappbusiness",
+    "#atendimentoaocliente",
+    "#pequenasempresas",
+    "#automacaowhatsapp"
+   ]
+  },
+  {
+   "id": "c10",
+   "data": "2026-11-23T12:00:00",
+   "formula": "IG2 Contrarian + exercício (shares)",
+   "slides": [
+    {
+     "tipo": "capa",
+     "kicker": "FAZ A CONTA",
+     "titulo": "Quanto custa NÃO ter automação no seu WhatsApp?",
+     "sub": "a conta leva 1 minuto"
+    },
+    {
+     "tipo": "item",
+     "n": "A",
+     "titulo": "Quantas mensagens repetidas por dia?",
+     "corpo": "Preço, horário, endereço, \"tem disponível?\". Conta só as que têm sempre a mesma resposta."
+    },
+    {
+     "tipo": "item",
+     "n": "B",
+     "titulo": "Quantos minutos cada uma leva?",
+     "corpo": "Ler, achar a informação, digitar, responder a dúvida seguinte."
+    },
+    {
+     "tipo": "item",
+     "n": "A×B",
+     "titulo": "Multiplica por 30 dias",
+     "corpo": "Esse é o tempo por mês que alguém da sua equipe passa copiando a mesma resposta."
+    },
+    {
+     "tipo": "item",
+     "n": "+",
+     "titulo": "E soma quem não foi respondido",
+     "corpo": "Toda mensagem que ficou pra depois e virou cliente do concorrente. Essa nem aparece na conta."
+    },
+    {
+     "tipo": "cta",
+     "titulo": "Agora compara com o custo de automatizar.",
+     "corpo": "Se quiser, eu faço essa conta com você, com os números reais da sua empresa.",
+     "acao": "Comenta CONTA que eu te chamo"
+    }
+   ],
+   "legenda": "todo mundo pergunta quanto custa automatizar. quase ninguém pergunta quanto custa não automatizar.\n\nfaz a conta do carrossel com os números da sua empresa. leva 1 minuto.\n\ncomenta CONTA que eu faço com você.",
+   "hashtags": [
+    "#gestaodeempresas",
+    "#produtividade",
+    "#automacaowhatsapp",
+    "#empreendedorismo"
+   ]
+  },
+  {
+   "id": "c11",
+   "data": "2026-11-25T12:00:00",
+   "formula": "IG8 Framework (saves) — pré Black Friday",
+   "slides": [
+    {
+     "tipo": "capa",
+     "kicker": "BLACK FRIDAY · FALTAM 2 DIAS",
+     "titulo": "Prepare seu WhatsApp em 3 passos antes de sexta",
+     "sub": "dá pra fazer hoje à noite"
+    },
+    {
+     "tipo": "item",
+     "n": "1",
+     "titulo": "Hoje: escreve as respostas",
+     "corpo": "Oferta, preço, prazo, frete, troca, pagamento. Uma resposta pronta pra cada."
+    },
+    {
+     "tipo": "item",
+     "n": "2",
+     "titulo": "Amanhã: organiza as etiquetas",
+     "corpo": "Novo, negociando, pagou, enviado. Ninguém some no meio de 200 conversas."
+    },
+    {
+     "tipo": "item",
+     "n": "3",
+     "titulo": "Sexta: ativa o fora do horário",
+     "corpo": "Quem chamar à noite recebe a oferta e o link na hora, sem esperar o dia seguinte."
+    },
+    {
+     "tipo": "cta",
+     "titulo": "Sexta tem o checklist completo aqui.",
+     "corpo": "Segue pra não perder. E se quiser tudo isso rodando sozinho, me chama.",
+     "acao": "Segue + comenta BLACK"
+    }
+   ],
+   "legenda": "a Black Friday é sexta. se o seu WhatsApp não estiver pronto, você vai passar o dia copiando e colando.\n\n3 passos, um por dia. o primeiro dá pra fazer hoje.\n\nsegue pra ver o checklist completo na sexta.",
+   "hashtags": [
+    "#blackfriday",
+    "#vendaspelowhatsapp",
+    "#lojistas",
+    "#pequenasempresas"
+   ]
   }
  ],
  "videos": [
@@ -684,6 +950,322 @@
     "#chatbot",
     "#pequenasempresas",
     "#transformacaodigital"
+   ]
+  },
+  {
+   "id": "v07",
+   "data": "2026-11-18T19:00:00",
+   "formula": "IG2 Contrarian (reel)",
+   "cenas": [
+    {
+     "tipo": "gancho",
+     "dur": 3.0,
+     "kicker": "PARA COM ISSO",
+     "texto": "Para de responder \"bom dia, tudo bem?\""
+    },
+    {
+     "tipo": "chat",
+     "dur": 5.0,
+     "msgs": [
+      [
+       "in",
+       "qual o valor do serviço?"
+      ],
+      [
+       "out",
+       "bom dia, tudo bem?"
+      ],
+      [
+       "in",
+       "..."
+      ]
+     ]
+    },
+    {
+     "tipo": "texto",
+     "dur": 3.0,
+     "texto": "O cliente fez uma pergunta.",
+     "sub": "responde a pergunta."
+    },
+    {
+     "tipo": "chat",
+     "dur": 5.0,
+     "msgs": [
+      [
+       "in",
+       "qual o valor do serviço?"
+      ],
+      [
+       "out",
+       "Oi! Fica R$ X com tudo incluso. Quer agendar pra essa semana?"
+      ]
+     ]
+    },
+    {
+     "tipo": "texto",
+     "dur": 2.8,
+     "texto": "Educado e direto.",
+     "sub": "dá pra ser os dois.",
+     "destaque": true
+    },
+    {
+     "tipo": "cta",
+     "dur": 3.5,
+     "texto": "Segue a CR Automações",
+     "sub": "pra mais ajustes assim"
+    }
+   ],
+   "roteiro_fala": "Para de responder bom dia tudo bem quando o cliente pergunta o preço. Ele fez uma pergunta: responde a pergunta. Educado e direto, dá pra ser os dois.",
+   "legenda": "o cliente perguntou o preço. você respondeu \"bom dia, tudo bem?\". agora ele precisa perguntar de novo.\n\neducação é responder rápido e direto. o \"tudo bem\" pode vir junto.\n\nsegue pra mais ajustes de atendimento.",
+   "hashtags": [
+    "#atendimentoaocliente",
+    "#vendaspelowhatsapp",
+    "#dicasdevendas",
+    "#empreendedor"
+   ]
+  },
+  {
+   "id": "v08",
+   "data": "2026-11-20T19:00:00",
+   "formula": "IG4 Mini-story (reel)",
+   "cenas": [
+    {
+     "tipo": "gancho",
+     "dur": 3.0,
+     "kicker": "\"VOU PENSAR\"",
+     "texto": "O cliente que vai pensar não volta sozinho"
+    },
+    {
+     "tipo": "chat",
+     "dur": 4.0,
+     "msgs": [
+      [
+       "in",
+       "gostei, vou pensar e te falo"
+      ],
+      [
+       "out",
+       "Claro! Fico no aguardo"
+      ]
+     ]
+    },
+    {
+     "tipo": "texto",
+     "dur": 2.8,
+     "texto": "Ele não falou.",
+     "sub": "e ninguém chamou de novo."
+    },
+    {
+     "tipo": "chat",
+     "dur": 5.5,
+     "msgs": [
+      [
+       "out",
+       "Oi! Ontem você ficou de pensar. Ficou alguma dúvida que eu possa tirar?"
+      ],
+      [
+       "in",
+       "na verdade fiquei com dúvida no prazo"
+      ],
+      [
+       "out",
+       "Entrega em até 5 dias. Quer que eu já separe o seu?"
+      ]
+     ]
+    },
+    {
+     "tipo": "texto",
+     "dur": 2.8,
+     "texto": "Follow-up automático.",
+     "sub": "no dia seguinte, sem você lembrar.",
+     "destaque": true
+    },
+    {
+     "tipo": "cta",
+     "dur": 3.5,
+     "texto": "Comenta AUTOMAÇÃO",
+     "sub": "te mostro como fica"
+    }
+   ],
+   "roteiro_fala": "O cliente que diz que vai pensar quase nunca volta sozinho. Ninguém chama de novo e a venda morre. Com follow-up automático, no dia seguinte ele recebe uma mensagem perguntando se ficou alguma dúvida.",
+   "legenda": "\"vou pensar e te falo\" é onde muita venda morre. não porque o cliente desistiu, mas porque ninguém chamou de novo.\n\num follow-up automático no dia seguinte resolve isso sem você precisar lembrar.\n\ncomenta AUTOMAÇÃO que eu te mostro.",
+   "hashtags": [
+    "#followup",
+    "#vendaspelowhatsapp",
+    "#automacaowhatsapp",
+    "#pequenasempresas"
+   ]
+  },
+  {
+   "id": "v09",
+   "data": "2026-11-22T11:00:00",
+   "formula": "IG3 Relatable (reel)",
+   "cenas": [
+    {
+     "tipo": "gancho",
+     "dur": 3.0,
+     "kicker": "AGENDA FURADA",
+     "texto": "Cliente marcou e não apareceu?"
+    },
+    {
+     "tipo": "texto",
+     "dur": 3.0,
+     "texto": "Na maioria das vezes ele só esqueceu.",
+     "sub": "não é falta de interesse."
+    },
+    {
+     "tipo": "chat",
+     "dur": 5.5,
+     "msgs": [
+      [
+       "out",
+       "Oi, Ana! Lembrete: amanhã às 10h. Confirma pra mim?"
+      ],
+      [
+       "in",
+       "confirmado!"
+      ],
+      [
+       "out",
+       "Perfeito, te espero 😊"
+      ]
+     ]
+    },
+    {
+     "tipo": "lista",
+     "dur": 5.0,
+     "titulo": "O lembrete automático:",
+     "itens": [
+      "Sai na véspera, sozinho",
+      "Pede confirmação",
+      "Libera o horário se cancelar"
+     ]
+    },
+    {
+     "tipo": "cta",
+     "dur": 3.5,
+     "texto": "Quer na sua agenda?",
+     "sub": "comenta AGENDA"
+    }
+   ],
+   "roteiro_fala": "Cliente marcou e não apareceu? Na maioria das vezes ele só esqueceu. O lembrete automático sai na véspera, pede confirmação e, se a pessoa cancelar, libera o horário pra outro cliente.",
+   "legenda": "horário vazio porque o cliente esqueceu é prejuízo que dá pra evitar.\n\no lembrete automático sai na véspera, pede confirmação e libera o horário se a pessoa cancelar.\n\ncomenta AGENDA que eu te mostro funcionando.",
+   "hashtags": [
+    "#agendamento",
+    "#automacaowhatsapp",
+    "#clinicas",
+    "#saloesdebeleza"
+   ]
+  },
+  {
+   "id": "v10",
+   "data": "2026-11-24T19:00:00",
+   "formula": "IG5 Listicle (reel)",
+   "cenas": [
+    {
+     "tipo": "gancho",
+     "dur": 3.0,
+     "kicker": "TESTE RÁPIDO",
+     "texto": "3 sinais de que você precisa de um CRM"
+    },
+    {
+     "tipo": "lista",
+     "dur": 6.0,
+     "titulo": "Se isso acontece aí:",
+     "itens": [
+      "Cliente some e ninguém percebe",
+      "Você não sabe quem está negociando",
+      "O histórico está só na cabeça de alguém"
+     ]
+    },
+    {
+     "tipo": "painel",
+     "dur": 4.5,
+     "foco": "crm",
+     "legenda": "cada contato numa coluna"
+    },
+    {
+     "tipo": "texto",
+     "dur": 3.0,
+     "texto": "Não precisa ser complicado.",
+     "sub": "é arrastar o cartão.",
+     "destaque": true
+    },
+    {
+     "tipo": "cta",
+     "dur": 3.5,
+     "texto": "Quer ver o painel?",
+     "sub": "comenta PAINEL"
+    }
+   ],
+   "roteiro_fala": "Três sinais de que você precisa de um CRM: cliente some e ninguém percebe, você não sabe quem está negociando, e o histórico está só na cabeça de alguém. Não precisa ser complicado, é arrastar o cartão.",
+   "legenda": "CRM parece coisa de empresa grande. mas se algum desses 3 sinais acontece aí, você já precisa de um.\n\nno painel da CR cada conversa do WhatsApp vira um cartão. é só arrastar.\n\ncomenta PAINEL pra ver.",
+   "hashtags": [
+    "#crm",
+    "#gestaodeclientes",
+    "#pequenasempresas",
+    "#vendaspelowhatsapp"
+   ]
+  },
+  {
+   "id": "v11",
+   "data": "2026-11-26T19:00:00",
+   "formula": "IG9 Pattern-Interrupt (Black Friday)",
+   "cenas": [
+    {
+     "tipo": "gancho",
+     "dur": 3.0,
+     "kicker": "AMANHÃ",
+     "texto": "Black Friday é amanhã. Seu WhatsApp aguenta?"
+    },
+    {
+     "tipo": "chat",
+     "dur": 4.5,
+     "msgs": [
+      [
+       "in",
+       "ainda tem promoção?"
+      ],
+      [
+       "in",
+       "oi??"
+      ],
+      [
+       "in",
+       "alguém aí?"
+      ]
+     ]
+    },
+    {
+     "tipo": "texto",
+     "dur": 2.8,
+     "texto": "Cada \"alguém aí?\"",
+     "sub": "é uma venda indo embora."
+    },
+    {
+     "tipo": "lista",
+     "dur": 5.5,
+     "titulo": "Hoje à noite, faz isso:",
+     "itens": [
+      "Resposta pronta com a oferta",
+      "Etiquetas por etapa",
+      "Mensagem fora do horário ligada"
+     ]
+    },
+    {
+     "tipo": "cta",
+     "dur": 3.5,
+     "texto": "Amanhã tem checklist",
+     "sub": "segue pra não perder"
+    }
+   ],
+   "roteiro_fala": "Black Friday é amanhã. Seu WhatsApp aguenta? Cada alguém aí sem resposta é uma venda indo embora. Hoje à noite: deixa a resposta pronta com a oferta, organiza as etiquetas e liga a mensagem de fora do horário.",
+   "legenda": "amanhã seu WhatsApp vai lotar. cada \"alguém aí?\" sem resposta é venda indo pro concorrente.\n\n3 coisas pra fazer hoje à noite. amanhã cedo tem o checklist completo aqui.\n\nsegue pra não perder.",
+   "hashtags": [
+    "#blackfriday",
+    "#vendaspelowhatsapp",
+    "#automacaowhatsapp",
+    "#lojistas"
    ]
   }
  ]

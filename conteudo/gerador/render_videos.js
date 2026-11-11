@@ -162,11 +162,15 @@ function html(v) {
   </script></body></html>` };
 }
 
-function ffmpeg(saida) {
+// Trilha: usa ../midia/trilha.wav (gerada por trilha.py) se existir; senão, áudio mudo.
+const TRILHA = path.join(__dirname, '..', 'midia', 'trilha.wav');
+function ffmpeg(saida, total) {
+  const audio = fs.existsSync(TRILHA)
+    ? ['-i', TRILHA, '-af', `afade=t=out:st=${(total - 1.5).toFixed(2)}:d=1.5`]
+    : ['-f', 'lavfi', '-i', 'anullsrc=channel_layout=stereo:sample_rate=44100'];
   return spawn('ffmpeg', ['-y', '-loglevel', 'error',
     '-f', 'image2pipe', '-framerate', String(FPS), '-c:v', 'mjpeg', '-i', '-',
-    '-f', 'lavfi', '-i', 'anullsrc=channel_layout=stereo:sample_rate=44100',
-    '-shortest', '-map', '0:v', '-map', '1:a',
+    ...audio, '-t', total.toFixed(2), '-map', '0:v', '-map', '1:a',
     '-c:v', 'libx264', '-preset', 'medium', '-crf', '20', '-pix_fmt', 'yuv420p', '-r', String(FPS),
     '-c:a', 'aac', '-b:a', '128k', '-movflags', '+faststart', saida], { stdio: ['pipe', 'inherit', 'inherit'] });
 }
@@ -182,7 +186,7 @@ function ffmpeg(saida) {
     await page.setContent(doc, { waitUntil: 'networkidle' });
     await page.evaluate(() => document.fonts.ready);
     const mp4 = path.join(SAIDA, `${v.id}.mp4`);
-    const ff = ffmpeg(mp4);
+    const ff = ffmpeg(mp4, total);
     const fim = new Promise((ok, erro) => ff.on('close', c => c === 0 ? ok() : erro(new Error('ffmpeg ' + c))));
     const n = Math.round(total * FPS);
     for (let f = 0; f < n; f++) {

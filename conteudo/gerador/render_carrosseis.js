@@ -46,7 +46,8 @@ function corpoSlide(s) {
       return `<div class="mid item"><div class="num">${esc(s.n)}</div><h2>${esc(s.titulo)}</h2><p>${esc(s.corpo)}</p></div>`;
     case 'antesdepois': {
       const ruim = s.cor === 'vermelho', bom = s.cor === 'verde';
-      const tag = bom ? `<div class="tag mono" style="color:var(--green)">${esc(s.n)} AUTOMAÇÃO</div>`
+      const tag = s.tag ? `<div class="tag mono" style="color:var(${bom ? '--green' : '--red'})">${esc(s.tag)}</div>`
+        : bom ? `<div class="tag mono" style="color:var(--green)">${esc(s.n)} AUTOMAÇÃO</div>`
         : ruim ? `<div class="tag mono" style="color:var(--red)">${esc(s.n)} AUTOMAÇÃO</div>`
         : `<div class="tag mono" style="color:var(--red)">MITO #${esc(s.n)}</div>`;
       const mitoCls = (ruim || bom) ? 'mito' : 'mito x';
