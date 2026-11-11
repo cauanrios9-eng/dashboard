@@ -1,0 +1,44 @@
+{
+ "autoPublish": true,
+ "draft": false,
+ "descendants": [],
+ "firstCommentText": "",
+ "hasNotReadNotes": false,
+ "shortener": false,
+ "smartLinkData": {
+  "ids": []
+ },
+ "media": [
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c01/slide-01.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c01/slide-02.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c01/slide-03.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c01/slide-04.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c01/slide-05.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c01/slide-06.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c01/slide-07.png"
+ ],
+ "mediaAltText": [],
+ "providers": [
+  {
+   "network": "instagram"
+  },
+  {
+   "network": "tiktok"
+  }
+ ],
+ "publicationDate": {
+  "dateTime": "2026-11-16T12:00:00",
+  "timezone": "America/Sao_Paulo"
+ },
+ "text": "você não perde cliente só por preço. muitas vezes perde por demora.\n\npassa o carrossel e conta quantos desses sinais acontecem aí na sua empresa. o 4º é o mais comum e quase ninguém percebe.\n\nse marcou 2 ou mais, comenta AUTOMAÇÃO que eu te explico como resolver sem contratar mais gente.\n\n#automacaowhatsapp #atendimentoaocliente #pequenasempresas #vendaspelowhatsapp",
+ "instagramData": {
+  "type": "POST",
+  "isAiGenerated": false
+ },
+ "tiktokData": {
+  "privacyOption": "PUBLIC_TO_EVERYONE",
+  "autoAddMusic": true,
+  "photoCoverIndex": 0,
+  "title": "5 sinais de que você está perdendo cliente no WhatsApp"
+ }
+}

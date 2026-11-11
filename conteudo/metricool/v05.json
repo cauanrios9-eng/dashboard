@@ -1,0 +1,40 @@
+{
+ "videoThumbnailUrl": "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/videos/v05-capa.jpg",
+ "autoPublish": true,
+ "draft": false,
+ "descendants": [],
+ "firstCommentText": "",
+ "hasNotReadNotes": false,
+ "shortener": false,
+ "smartLinkData": {
+  "ids": []
+ },
+ "media": [
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/videos/v05.mp4"
+ ],
+ "mediaAltText": [],
+ "providers": [
+  {
+   "network": "instagram"
+  },
+  {
+   "network": "tiktok"
+  }
+ ],
+ "publicationDate": {
+  "dateTime": "2026-11-26T19:00:00",
+  "timezone": "America/Sao_Paulo"
+ },
+ "text": "não vou te vender automação se você não precisa.\n\nse você recebe mensagem repetida o dia todo, perde gente fora do horário e não sabe quantos contatos chegam, aí sim faz sentido.\n\nse encaixou, comenta AUTOMAÇÃO que eu te chamo.\n\n#automacaowhatsapp #pequenasempresas #vendas #empreendedorismo",
+ "instagramData": {
+  "type": "REEL",
+  "showReelOnFeed": true,
+  "isAiGenerated": false
+ },
+ "tiktokData": {
+  "privacyOption": "PUBLIC_TO_EVERYONE",
+  "autoAddMusic": true,
+  "isAigc": false,
+  "title": "Automação de WhatsApp NÃO é pra todo mundo"
+ }
+}

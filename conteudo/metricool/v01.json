@@ -1,0 +1,40 @@
+{
+ "videoThumbnailUrl": "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/videos/v01-capa.jpg",
+ "autoPublish": true,
+ "draft": false,
+ "descendants": [],
+ "firstCommentText": "",
+ "hasNotReadNotes": false,
+ "shortener": false,
+ "smartLinkData": {
+  "ids": []
+ },
+ "media": [
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/videos/v01.mp4"
+ ],
+ "mediaAltText": [],
+ "providers": [
+  {
+   "network": "instagram"
+  },
+  {
+   "network": "tiktok"
+  }
+ ],
+ "publicationDate": {
+  "dateTime": "2026-11-17T19:00:00",
+  "timezone": "America/Sao_Paulo"
+ },
+ "text": "o cliente não espera o horário comercial pra decidir.\n\ncom automação, a resposta sai na hora e o horário já fica marcado. você acorda com a agenda preenchida.\n\ncomenta AUTOMAÇÃO que eu te mostro como fica na sua empresa.\n\n#automacaowhatsapp #atendimento24h #pequenasempresas #empreendedorismo",
+ "instagramData": {
+  "type": "REEL",
+  "showReelOnFeed": true,
+  "isAiGenerated": false
+ },
+ "tiktokData": {
+  "privacyOption": "PUBLIC_TO_EVERYONE",
+  "autoAddMusic": true,
+  "isAigc": false,
+  "title": "Um cliente te chamou agora."
+ }
+}

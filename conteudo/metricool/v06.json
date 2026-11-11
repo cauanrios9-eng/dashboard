@@ -1,0 +1,40 @@
+{
+ "videoThumbnailUrl": "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/videos/v06-capa.jpg",
+ "autoPublish": true,
+ "draft": false,
+ "descendants": [],
+ "firstCommentText": "",
+ "hasNotReadNotes": false,
+ "shortener": false,
+ "smartLinkData": {
+  "ids": []
+ },
+ "media": [
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/videos/v06.mp4"
+ ],
+ "mediaAltText": [],
+ "providers": [
+  {
+   "network": "instagram"
+  },
+  {
+   "network": "tiktok"
+  }
+ ],
+ "publicationDate": {
+  "dateTime": "2026-11-28T11:00:00",
+  "timezone": "America/Sao_Paulo"
+ },
+ "text": "você não precisa entender de tecnologia pra ter um atendimento que responde sozinho.\n\ndiagnóstico, fluxo com a cara da sua empresa, testes e um painel pra acompanhar. é assim que funciona.\n\ncomenta AUTOMAÇÃO ou chama no link da bio.\n\n#automacaowhatsapp #chatbot #pequenasempresas #transformacaodigital",
+ "instagramData": {
+  "type": "REEL",
+  "showReelOnFeed": true,
+  "isAiGenerated": false
+ },
+ "tiktokData": {
+  "privacyOption": "PUBLIC_TO_EVERYONE",
+  "autoAddMusic": true,
+  "isAigc": false,
+  "title": "Como eu monto a automação do seu WhatsApp"
+ }
+}

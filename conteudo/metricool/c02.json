@@ -1,0 +1,44 @@
+{
+ "autoPublish": true,
+ "draft": false,
+ "descendants": [],
+ "firstCommentText": "",
+ "hasNotReadNotes": false,
+ "shortener": false,
+ "smartLinkData": {
+  "ids": []
+ },
+ "media": [
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c02/slide-01.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c02/slide-02.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c02/slide-03.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c02/slide-04.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c02/slide-05.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c02/slide-06.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c02/slide-07.png"
+ ],
+ "mediaAltText": [],
+ "providers": [
+  {
+   "network": "instagram"
+  },
+  {
+   "network": "tiktok"
+  }
+ ],
+ "publicationDate": {
+  "dateTime": "2026-11-18T12:00:00",
+  "timezone": "America/Sao_Paulo"
+ },
+ "text": "automação de WhatsApp não é um robô mandando \"digite 1\".\n\né um processo de 4 etapas, e a etapa 3 é a que faz diferença no caixa: qualificar antes de passar pra equipe.\n\nsalva pra consultar depois e manda pra quem cuida do atendimento aí.\n\n#automacaowhatsapp #chatbot #atendimentoaocliente #empreendedorismo",
+ "instagramData": {
+  "type": "POST",
+  "isAiGenerated": false
+ },
+ "tiktokData": {
+  "privacyOption": "PUBLIC_TO_EVERYONE",
+  "autoAddMusic": true,
+  "photoCoverIndex": 0,
+  "title": "Como funciona uma automação de WhatsApp de verdade"
+ }
+}

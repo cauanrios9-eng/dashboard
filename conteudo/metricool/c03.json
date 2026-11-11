@@ -1,0 +1,43 @@
+{
+ "autoPublish": true,
+ "draft": false,
+ "descendants": [],
+ "firstCommentText": "",
+ "hasNotReadNotes": false,
+ "shortener": false,
+ "smartLinkData": {
+  "ids": []
+ },
+ "media": [
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c03/slide-01.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c03/slide-02.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c03/slide-03.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c03/slide-04.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c03/slide-05.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c03/slide-06.png"
+ ],
+ "mediaAltText": [],
+ "providers": [
+  {
+   "network": "instagram"
+  },
+  {
+   "network": "tiktok"
+  }
+ ],
+ "publicationDate": {
+  "dateTime": "2026-11-20T12:00:00",
+  "timezone": "America/Sao_Paulo"
+ },
+ "text": "\"robô espanta cliente\" é o mito que mais escuto. e faz sentido: todo mundo já caiu num menu de \"digite 1\" infinito.\n\nmas o problema nunca foi a automação. é automação mal feita.\n\nqual desses você já pensou? me conta nos comentários.\n\n#automacao #atendimentoaocliente #pequenasempresas #gestaodeempresas",
+ "instagramData": {
+  "type": "POST",
+  "isAiGenerated": false
+ },
+ "tiktokData": {
+  "privacyOption": "PUBLIC_TO_EVERYONE",
+  "autoAddMusic": true,
+  "photoCoverIndex": 0,
+  "title": "4 mentiras que te contaram sobre automação de atendimento"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "videoThumbnailUrl": "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/videos/v03-capa.jpg",
+ "autoPublish": true,
+ "draft": false,
+ "descendants": [],
+ "firstCommentText": "",
+ "hasNotReadNotes": false,
+ "shortener": false,
+ "smartLinkData": {
+  "ids": []
+ },
+ "media": [
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/videos/v03.mp4"
+ ],
+ "mediaAltText": [],
+ "providers": [
+  {
+   "network": "instagram"
+  },
+  {
+   "network": "tiktok"
+  }
+ ],
+ "publicationDate": {
+  "dateTime": "2026-11-21T11:00:00",
+  "timezone": "America/Sao_Paulo"
+ },
+ "text": "a maioria das empresas não sabe quantas pessoas chamaram no WhatsApp ontem.\n\nno painel da CR você vê mensagens por dia, horário de pico e cada contato num CRM de arrastar. (dados ilustrativos no vídeo)\n\ncomenta PAINEL que eu te mostro ao vivo.\n\n#dashboard #crm #automacaowhatsapp #gestaodeempresas",
+ "instagramData": {
+  "type": "REEL",
+  "showReelOnFeed": true,
+  "isAiGenerated": false
+ },
+ "tiktokData": {
+  "privacyOption": "PUBLIC_TO_EVERYONE",
+  "autoAddMusic": true,
+  "isAigc": false,
+  "title": "O painel que mostra o que seu WhatsApp esconde"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "autoPublish": true,
+ "draft": false,
+ "descendants": [],
+ "firstCommentText": "",
+ "hasNotReadNotes": false,
+ "shortener": false,
+ "smartLinkData": {
+  "ids": []
+ },
+ "media": [
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c05/slide-01.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c05/slide-02.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c05/slide-03.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c05/slide-04.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c05/slide-05.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c05/slide-06.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c05/slide-07.png"
+ ],
+ "mediaAltText": [],
+ "providers": [
+  {
+   "network": "instagram"
+  },
+  {
+   "network": "tiktok"
+  }
+ ],
+ "publicationDate": {
+  "dateTime": "2026-11-25T12:00:00",
+  "timezone": "America/Sao_Paulo"
+ },
+ "text": "se você não sabe em que etapa está cada cliente que te chamou essa semana, você está vendendo no escuro.\n\n4 colunas resolvem: novo contato, interessado, agendado, concluído.\n\ndá pra fazer até numa planilha. no painel da CR é arrastar o cartão. comenta FUNIL que eu te mostro funcionando.\n\n#crm #funildevendas #vendaspelowhatsapp #pequenasempresas",
+ "instagramData": {
+  "type": "POST",
+  "isAiGenerated": false
+ },
+ "tiktokData": {
+  "privacyOption": "PUBLIC_TO_EVERYONE",
+  "autoAddMusic": true,
+  "photoCoverIndex": 0,
+  "title": "As 4 colunas que organizam todo cliente que te chama"
+ }
+}

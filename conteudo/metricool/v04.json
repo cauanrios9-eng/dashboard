@@ -1,0 +1,40 @@
+{
+ "videoThumbnailUrl": "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/videos/v04-capa.jpg",
+ "autoPublish": true,
+ "draft": false,
+ "descendants": [],
+ "firstCommentText": "",
+ "hasNotReadNotes": false,
+ "shortener": false,
+ "smartLinkData": {
+  "ids": []
+ },
+ "media": [
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/videos/v04.mp4"
+ ],
+ "mediaAltText": [],
+ "providers": [
+  {
+   "network": "instagram"
+  },
+  {
+   "network": "tiktok"
+  }
+ ],
+ "publicationDate": {
+  "dateTime": "2026-11-24T19:00:00",
+  "timezone": "America/Sao_Paulo"
+ },
+ "text": "você escala a equipe pelo horário comercial. o seu cliente não segue horário comercial.\n\nquando você vê a hora real em que as mensagens chegam, muda a escala, liga a automação no horário vazio e até posta na hora certa.\n\ncomenta PAINEL pra ver o seu.\n\n#gestaodeempresas #dadosparadecisao #automacaowhatsapp #empreendedor",
+ "instagramData": {
+  "type": "REEL",
+  "showReelOnFeed": true,
+  "isAiGenerated": false
+ },
+ "tiktokData": {
+  "privacyOption": "PUBLIC_TO_EVERYONE",
+  "autoAddMusic": true,
+  "isAigc": false,
+  "title": "Seu horário de pico não é o que você acha"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "autoPublish": true,
+ "draft": false,
+ "descendants": [],
+ "firstCommentText": "",
+ "hasNotReadNotes": false,
+ "shortener": false,
+ "smartLinkData": {
+  "ids": []
+ },
+ "media": [
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c06/slide-01.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c06/slide-02.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c06/slide-03.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c06/slide-04.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c06/slide-05.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c06/slide-06.png",
+  "https://raw.githubusercontent.com/cauanrios9-eng/dashboard/claude/instagram-tiktok-auto-content-zwpd0u/conteudo/midia/carrosseis/c06/slide-07.png"
+ ],
+ "mediaAltText": [],
+ "providers": [
+  {
+   "network": "instagram"
+  },
+  {
+   "network": "tiktok"
+  }
+ ],
+ "publicationDate": {
+  "dateTime": "2026-11-27T10:00:00",
+  "timezone": "America/Sao_Paulo"
+ },
+ "text": "hoje seu WhatsApp vai receber mais mensagem que o normal. a pergunta é quantas vão ficar sem resposta.\n\nchecklist rápido no carrossel. o 1 e o 2 dá pra fazer em menos de uma hora.\n\nsalva e manda pra quem cuida do atendimento aí.\n\n#blackfriday #vendaspelowhatsapp #automacaowhatsapp #lojistas",
+ "instagramData": {
+  "type": "POST",
+  "isAiGenerated": false
+ },
+ "tiktokData": {
+  "privacyOption": "PUBLIC_TO_EVERYONE",
+  "autoAddMusic": true,
+  "photoCoverIndex": 0,
+  "title": "Checklist pra não perder venda no WhatsApp hoje"
+ }
+}
