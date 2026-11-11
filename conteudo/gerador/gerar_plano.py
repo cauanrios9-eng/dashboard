@@ -29,7 +29,7 @@ def payload(p, video):
     if video:
         media = [f'{BASE}/videos/{p["id"]}.mp4']
         ig = {"type": "REEL", "showReelOnFeed": True, "isAiGenerated": False}
-        tt = {"privacyOption": "PUBLIC_TO_EVERYONE", "autoAddMusic": True, "isAigc": False,
+        tt = {"privacyOption": "PUBLIC_TO_EVERYONE", "isAigc": False,
               "title": p["cenas"][0]["texto"]}
     else:
         n = len(p["slides"])

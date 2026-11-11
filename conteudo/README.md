@@ -23,8 +23,9 @@ Ou peça ao Claude: "cria mais 2 semanas de conteúdo e agenda no Metricool"
 
 ## Antes de publicar
 
-- Os vídeos saem com **áudio mudo**. No TikTok o Metricool liga `autoAddMusic`;
-  no Instagram vale trocar por um áudio em alta pelo app (ou gravar a voz com o
-  roteiro de fala do `PLANO.md`).
+- Os vídeos levam uma **trilha instrumental original** (`gerador/trilha.py`, sem direitos
+  autorais). Para pôr a trilha num vídeo novo:
+  `ffmpeg -i v.mp4 -i ../trilha.wav -map 0:v -map 1:a -c:v copy -c:a aac -shortest saida.mp4`.
+  Nos carrosséis do TikTok, a música é adicionada automaticamente (`autoAddMusic`).
 - Os gráficos do painel nos vídeos v03/v04 são **ilustrativos** (está escrito na tela).
   Quando tiver números reais de cliente, troque e ganhe prova social.

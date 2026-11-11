@@ -36,7 +36,7 @@ feita pelo conector **Metricool** (`mcp__Metricool_Social_Media_Management__*`).
 
 - Carrossel: 2–10 imagens, só imagem. Vídeo: Reel no IG + vídeo no TikTok.
 - 3–5 hashtags por post. Gancho nos primeiros 125 caracteres da legenda.
-- `tiktokData.autoAddMusic: true` (os vídeos saem com áudio mudo). No Instagram,
-  ideal é o usuário trocar o áudio por um em alta pelo app, ou usar
-  `instagramData.audioConfiguration` se a conta for Business ligada a uma Página.
+- Vídeos: depois de `render_videos.js`, embutir a trilha original de
+  `python3 trilha.py ../midia/trilha.wav 26` (ver README). O TikTok **recusa**
+  `autoAddMusic` em vídeo; só use `autoAddMusic: true` em carrosséis.
 - Dados de painel nos vídeos são ilustrativos e o vídeo diz isso na tela.
