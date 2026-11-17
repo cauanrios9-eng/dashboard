@@ -375,12 +375,12 @@
      "acao": "Salva e comenta AUTOMAÇÃO"
     }
    ],
-   "legenda": "\"quanto custa?\" é a pergunta que mais chega no WhatsApp. e a resposta que mais perde venda é o preço sozinho.\n\n3 jeitos de responder que mantêm a conversa viva. o 3º é o que mais fecha.\n\nsalva pra usar hoje.",
+   "legenda": "como responder \"quanto custa?\" no WhatsApp sem perder o cliente.\n\no preço sozinho faz o cliente comparar e sumir. passa pros 3 jeitos que mantêm a conversa viva. o 3º é o que mais fecha.\n\nsalva pra usar hoje.",
    "hashtags": [
     "#vendaspelowhatsapp",
-    "#atendimentoaocliente",
+    "#whatsappbusiness",
     "#dicasdevendas",
-    "#pequenasempresas"
+    "#atendimentoaocliente"
    ]
   },
   {
@@ -390,7 +390,7 @@
    "slides": [
     {
      "tipo": "capa",
-     "kicker": "BOA x RUIM",
+     "kicker": "CHATBOT DE WHATSAPP",
      "titulo": "Mensagem automática que espanta x que vende",
      "sub": "3 exemplos lado a lado"
     },
@@ -448,7 +448,7 @@
    "slides": [
     {
      "tipo": "capa",
-     "kicker": "PRONTAS PRA USAR",
+     "kicker": "WHATSAPP BUSINESS",
      "titulo": "6 mensagens que todo WhatsApp de empresa precisa ter",
      "sub": "salva antes que suma do seu feed"
     },
@@ -960,8 +960,8 @@
     {
      "tipo": "gancho",
      "dur": 3.0,
-     "kicker": "PARA COM ISSO",
-     "texto": "Para de responder \"bom dia, tudo bem?\""
+     "kicker": "ATENDIMENTO NO WHATSAPP",
+     "texto": "Para de responder \"bom dia, tudo bem?\" quando o cliente pergunta o preço"
     },
     {
      "tipo": "chat",
@@ -1032,8 +1032,8 @@
     {
      "tipo": "gancho",
      "dur": 3.0,
-     "kicker": "\"VOU PENSAR\"",
-     "texto": "O cliente que vai pensar não volta sozinho"
+     "kicker": "VENDA PERDIDA",
+     "texto": "O cliente que disse \"vou pensar\" não volta sozinho"
     },
     {
      "tipo": "chat",
@@ -1104,8 +1104,8 @@
     {
      "tipo": "gancho",
      "dur": 3.0,
-     "kicker": "AGENDA FURADA",
-     "texto": "Cliente marcou e não apareceu?"
+     "kicker": "CLÍNICA, SALÃO E CONSULTÓRIO",
+     "texto": "Cliente marcou e não apareceu? Faz isso"
     },
     {
      "tipo": "texto",
@@ -1165,7 +1165,7 @@
     {
      "tipo": "gancho",
      "dur": 3.0,
-     "kicker": "TESTE RÁPIDO",
+     "kicker": "DONO DE NEGÓCIO",
      "texto": "3 sinais de que você precisa de um CRM"
     },
     {
@@ -1215,7 +1215,7 @@
     {
      "tipo": "gancho",
      "dur": 3.0,
-     "kicker": "AMANHÃ",
+     "kicker": "LOJISTA, ATENÇÃO",
      "texto": "Black Friday é amanhã. Seu WhatsApp aguenta?"
     },
     {

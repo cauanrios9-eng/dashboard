@@ -358,7 +358,7 @@ CARROSSEIS += [
         "data": "2026-11-19T12:00:00",
         "formula": "IG6 Before/After (saves)",
         "slides": [
-            {"tipo": "capa", "kicker": "BOA x RUIM",
+            {"tipo": "capa", "kicker": "CHATBOT DE WHATSAPP",
              "titulo": "Mensagem automática que espanta x que vende",
              "sub": "3 exemplos lado a lado"},
             {"tipo": "antesdepois", "n": "RUIM", "cor": "vermelho", "tag": "✕ ESPANTA", "mito": "\"Digite 1 para vendas, 2 para suporte...\"",
@@ -385,7 +385,7 @@ CARROSSEIS += [
         "data": "2026-11-21T11:00:00",
         "formula": "IG5 Listicle (saves)",
         "slides": [
-            {"tipo": "capa", "kicker": "PRONTAS PRA USAR",
+            {"tipo": "capa", "kicker": "WHATSAPP BUSINESS",
              "titulo": "6 mensagens que todo WhatsApp de empresa precisa ter",
              "sub": "salva antes que suma do seu feed"},
             {"tipo": "item", "n": "1", "titulo": "Boas-vindas",
@@ -471,7 +471,7 @@ VIDEOS += [
         "data": "2026-11-18T19:00:00",
         "formula": "IG2 Contrarian (reel)",
         "cenas": [
-            {"tipo": "gancho", "dur": 3.0, "kicker": "PARA COM ISSO", "texto": "Para de responder \"bom dia, tudo bem?\""},
+            {"tipo": "gancho", "dur": 3.0, "kicker": "ATENDIMENTO NO WHATSAPP", "texto": "Para de responder \"bom dia, tudo bem?\" quando o cliente pergunta o preço"},
             {"tipo": "chat", "dur": 5.0, "msgs": [("in", "qual o valor do serviço?"), ("out", "bom dia, tudo bem?"), ("in", "...")]},
             {"tipo": "texto", "dur": 3.0, "texto": "O cliente fez uma pergunta.", "sub": "responde a pergunta."},
             {"tipo": "chat", "dur": 5.0, "msgs": [("in", "qual o valor do serviço?"),
@@ -492,7 +492,7 @@ VIDEOS += [
         "data": "2026-11-20T19:00:00",
         "formula": "IG4 Mini-story (reel)",
         "cenas": [
-            {"tipo": "gancho", "dur": 3.0, "kicker": "\"VOU PENSAR\"", "texto": "O cliente que vai pensar não volta sozinho"},
+            {"tipo": "gancho", "dur": 3.0, "kicker": "VENDA PERDIDA", "texto": "O cliente que disse \"vou pensar\" não volta sozinho"},
             {"tipo": "chat", "dur": 4.0, "msgs": [("in", "gostei, vou pensar e te falo"), ("out", "Claro! Fico no aguardo")]},
             {"tipo": "texto", "dur": 2.8, "texto": "Ele não falou.", "sub": "e ninguém chamou de novo."},
             {"tipo": "chat", "dur": 5.5, "msgs": [("out", "Oi! Ontem você ficou de pensar. Ficou alguma dúvida que eu possa tirar?"),
@@ -514,7 +514,7 @@ VIDEOS += [
         "data": "2026-11-22T11:00:00",
         "formula": "IG3 Relatable (reel)",
         "cenas": [
-            {"tipo": "gancho", "dur": 3.0, "kicker": "AGENDA FURADA", "texto": "Cliente marcou e não apareceu?"},
+            {"tipo": "gancho", "dur": 3.0, "kicker": "CLÍNICA, SALÃO E CONSULTÓRIO", "texto": "Cliente marcou e não apareceu? Faz isso"},
             {"tipo": "texto", "dur": 3.0, "texto": "Na maioria das vezes ele só esqueceu.", "sub": "não é falta de interesse."},
             {"tipo": "chat", "dur": 5.5, "msgs": [("out", "Oi, Ana! Lembrete: amanhã às 10h. Confirma pra mim?"),
                                                   ("in", "confirmado!"),
@@ -536,7 +536,7 @@ VIDEOS += [
         "data": "2026-11-24T19:00:00",
         "formula": "IG5 Listicle (reel)",
         "cenas": [
-            {"tipo": "gancho", "dur": 3.0, "kicker": "TESTE RÁPIDO", "texto": "3 sinais de que você precisa de um CRM"},
+            {"tipo": "gancho", "dur": 3.0, "kicker": "DONO DE NEGÓCIO", "texto": "3 sinais de que você precisa de um CRM"},
             {"tipo": "lista", "dur": 6.0, "titulo": "Se isso acontece aí:",
              "itens": ["Cliente some e ninguém percebe", "Você não sabe quem está negociando", "O histórico está só na cabeça de alguém"]},
             {"tipo": "painel", "dur": 4.5, "foco": "crm", "legenda": "cada contato numa coluna"},
@@ -556,7 +556,7 @@ VIDEOS += [
         "data": "2026-11-26T19:00:00",
         "formula": "IG9 Pattern-Interrupt (Black Friday)",
         "cenas": [
-            {"tipo": "gancho", "dur": 3.0, "kicker": "AMANHÃ", "texto": "Black Friday é amanhã. Seu WhatsApp aguenta?"},
+            {"tipo": "gancho", "dur": 3.0, "kicker": "LOJISTA, ATENÇÃO", "texto": "Black Friday é amanhã. Seu WhatsApp aguenta?"},
             {"tipo": "chat", "dur": 4.5, "msgs": [("in", "ainda tem promoção?"), ("in", "oi??"), ("in", "alguém aí?")]},
             {"tipo": "texto", "dur": 2.8, "texto": "Cada \"alguém aí?\"", "sub": "é uma venda indo embora."},
             {"tipo": "lista", "dur": 5.5, "titulo": "Hoje à noite, faz isso:",

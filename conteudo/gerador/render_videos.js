@@ -22,10 +22,10 @@ body{width:${W}px;height:${H}px;overflow:hidden}
 .top{position:absolute;top:110px;left:90px;z-index:5}
 .scene{position:absolute;left:90px;right:150px;top:260px;bottom:420px;display:flex;flex-direction:column;justify-content:center;opacity:0}
 [data-at]{opacity:0}
-.kicker{align-self:flex-start;font-size:36px;letter-spacing:4px;color:var(--green);border:3px solid rgba(61,214,140,.45);background:rgba(61,214,140,.08);padding:16px 30px;border-radius:999px;margin-bottom:56px}
-.big{font-size:118px;line-height:1.02;font-weight:800;letter-spacing:-3.5px}
+.kicker{align-self:flex-start;font-size:40px;letter-spacing:4px;color:var(--green);border:3px solid rgba(61,214,140,.45);background:rgba(61,214,140,.08);padding:16px 30px;border-radius:999px;margin-bottom:56px}
+.big{font-size:132px;line-height:1.02;font-weight:800;letter-spacing:-3.5px}
 .big .w{display:inline-block;margin-right:.22em}
-.mid{font-size:92px;line-height:1.06;font-weight:800;letter-spacing:-2.5px}
+.mid{font-size:100px;line-height:1.06;font-weight:800;letter-spacing:-2.5px}
 .sub{margin-top:48px;font-size:54px;color:var(--orange);font-weight:500;line-height:1.25}
 .grad{background:linear-gradient(135deg,var(--blue),var(--green));-webkit-background-clip:text;color:transparent}
 /* chat */
@@ -63,14 +63,17 @@ body{width:${W}px;height:${H}px;overflow:hidden}
 `;
 
 // --------------------------------------------------------------- cenas
+// pinta de verde as palavras de impacto do gancho
+const destaque = (t) => t.replace(/(WhatsApp|CRM|NÃO|não apareceu\?|vou pensar|bom dia, tudo bem\?|amanhã)/, '<span class="hl">$1</span>');
 const palavras = (txt, t0, passo) => esc(txt).split(' ')
   .map((w, i) => `<span class="w" data-at="${(t0 + i * passo).toFixed(2)}" data-a="up">${w}</span>`).join('');
 
 function cena(c) {
   switch (c.tipo) {
     case 'gancho':
-      return `<span class="kicker mono" data-at="0" data-a="pop">${esc(c.kicker)}</span>
-        <div class="big">${palavras(c.texto, 0.25, 0.12)}</div>`;
+      // Gancho visível já no quadro 0: a decisão de rolar acontece em < 1s.
+      return `<span class="kicker mono">${esc(c.kicker)}</span>
+        <div class="big">${destaque(esc(c.texto))}</div>`;
     case 'texto':
       return `<div class="mid ${c.destaque ? 'grad' : ''}" data-at="0.05" data-a="up">${esc(c.texto)}</div>
         ${c.sub ? `<div class="sub" data-at="0.75" data-a="up">${esc(c.sub)}</div>` : ''}`;
@@ -142,7 +145,7 @@ function html(v) {
     g1.style.transform='translate('+(Math.sin(t*.5)*60)+'px,'+(Math.cos(t*.4)*50)+'px)';
     document.querySelectorAll('.scene').forEach(s=>{
       const st=+s.dataset.start,d=+s.dataset.dur,lt=t-st;
-      const fin=Math.min(1,lt/0.22), fout=Math.min(1,(d-lt)/0.22);
+      const fin=st===0?1:Math.min(1,lt/0.22), fout=Math.min(1,(d-lt)/0.22);
       const vis=lt>=0&&lt<d;
       s.style.opacity=vis?Math.min(fin,fout):0;
       s.style.transform=vis?'translateY('+((1-ease(fin))*30-(1-ease(fout))*30)+'px)':'';
