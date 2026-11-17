@@ -11,14 +11,14 @@ Fuso: `America/Sao_Paulo`. Arquivos de mídia em `conteudo/midia/`.
 | ter 17/11 12:00 | `c07` | Carrossel | O que responder quando o cliente pergunta "quanto custa?" | IG8 Steal-This Framework (saves) |
 | ter 17/11 19:00 | `v01` | Reel/TikTok | Um cliente te chamou agora. | IG9 Pattern-Interrupt |
 | qua 18/11 12:00 | `c02` | Carrossel | Como funciona uma automação de WhatsApp de verdade | IG8 Steal-This Framework (saves) |
-| qua 18/11 19:00 | `v07` | Reel/TikTok | Para de responder "bom dia, tudo bem?" | IG2 Contrarian (reel) |
+| qua 18/11 19:00 | `v07` | Reel/TikTok | Para de responder "bom dia, tudo bem?" quando o cliente pergunta o preço | IG2 Contrarian (reel) |
 | qui 19/11 12:00 | `c08` | Carrossel | Mensagem automática que espanta x que vende | IG6 Before/After (saves) |
 | qui 19/11 19:00 | `v02` | Reel/TikTok | As 3 perguntas que roubam seu tempo | IG10 How-I |
 | sex 20/11 12:00 | `c03` | Carrossel | 4 mentiras que te contaram sobre automação de atendimento | IG7 Myth-Buster (shares) |
-| sex 20/11 19:00 | `v08` | Reel/TikTok | O cliente que vai pensar não volta sozinho | IG4 Mini-story (reel) |
+| sex 20/11 19:00 | `v08` | Reel/TikTok | O cliente que disse "vou pensar" não volta sozinho | IG4 Mini-story (reel) |
 | sáb 21/11 11:00 | `c09` | Carrossel | 6 mensagens que todo WhatsApp de empresa precisa ter | IG5 Listicle (saves) |
 | sáb 21/11 11:00 | `v03` | Reel/TikTok | O painel que mostra o que seu WhatsApp esconde | IG10 How-I (bastidores do painel) |
-| dom 22/11 11:00 | `v09` | Reel/TikTok | Cliente marcou e não apareceu? | IG3 Relatable (reel) |
+| dom 22/11 11:00 | `v09` | Reel/TikTok | Cliente marcou e não apareceu? Faz isso | IG3 Relatable (reel) |
 | seg 23/11 12:00 | `c04` | Carrossel | O mesmo cliente, a mesma mensagem. Dois finais diferentes. | IG6 Before/After (saves, follows) |
 | seg 23/11 12:00 | `c10` | Carrossel | Quanto custa NÃO ter automação no seu WhatsApp? | IG2 Contrarian + exercício (shares) |
 | ter 24/11 19:00 | `v04` | Reel/TikTok | Seu horário de pico não é o que você acha | IG2 Contrarian (reel) |
@@ -83,13 +83,13 @@ Mídia: `midia/carrosseis/c07/slide-01..06.jpg`
 **Legenda:**
 
 ```
-"quanto custa?" é a pergunta que mais chega no WhatsApp. e a resposta que mais perde venda é o preço sozinho.
+como responder "quanto custa?" no WhatsApp sem perder o cliente.
 
-3 jeitos de responder que mantêm a conversa viva. o 3º é o que mais fecha.
+o preço sozinho faz o cliente comparar e sumir. passa pros 3 jeitos que mantêm a conversa viva. o 3º é o que mais fecha.
 
 salva pra usar hoje.
 
-#vendaspelowhatsapp #atendimentoaocliente #dicasdevendas #pequenasempresas
+#vendaspelowhatsapp #whatsappbusiness #dicasdevendas #atendimentoaocliente
 ```
 
 ---
@@ -163,7 +163,7 @@ Mídia: `midia/videos/v07.mp4` (capa: `v07-capa.jpg`)
 
 **Cenas na tela:**
 
-- `gancho` (3.0s): Para de responder "bom dia, tudo bem?"
+- `gancho` (3.0s): Para de responder "bom dia, tudo bem?" quando o cliente pergunta o preço
 - `chat` (5.0s): qual o valor do serviço? / bom dia, tudo bem? / ...
 - `texto` (3.0s): O cliente fez uma pergunta. — responde a pergunta.
 - `chat` (5.0s): qual o valor do serviço? / Oi! Fica R$ X com tudo incluso. Quer agendar pra essa semana?
@@ -283,7 +283,7 @@ Mídia: `midia/videos/v08.mp4` (capa: `v08-capa.jpg`)
 
 **Cenas na tela:**
 
-- `gancho` (3.0s): O cliente que vai pensar não volta sozinho
+- `gancho` (3.0s): O cliente que disse "vou pensar" não volta sozinho
 - `chat` (4.0s): gostei, vou pensar e te falo / Claro! Fico no aguardo
 - `texto` (2.8s): Ele não falou. — e ninguém chamou de novo.
 - `chat` (5.5s): Oi! Ontem você ficou de pensar. Ficou alguma dúvida que eu possa tirar? / na verdade fiquei com dúvida no prazo / Entrega em até 5 dias. Quer que eu já separe o seu?
@@ -376,7 +376,7 @@ Mídia: `midia/videos/v09.mp4` (capa: `v09-capa.jpg`)
 
 **Cenas na tela:**
 
-- `gancho` (3.0s): Cliente marcou e não apareceu?
+- `gancho` (3.0s): Cliente marcou e não apareceu? Faz isso
 - `texto` (3.0s): Na maioria das vezes ele só esqueceu. — não é falta de interesse.
 - `chat` (5.5s): Oi, Ana! Lembrete: amanhã às 10h. Confirma pra mim? / confirmado! / Perfeito, te espero 😊
 - `lista` (5.0s): O lembrete automático: — Sai na véspera, sozinho · Pede confirmação · Libera o horário se cancelar

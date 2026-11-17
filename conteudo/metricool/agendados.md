@@ -30,3 +30,5 @@ adicionando `{"network":"instagram"}` e `instagramData` (POST p/ carrossel, REEL
 | v11 | 26/11 19:00 | -160991727640296613 |
 
 > 11/11: o TikTok recusou PNG no 1º carrossel. Todos os carrosséis foram trocados para JPG no Metricool.
+
+> 17/11: posts de 18/11 a 27/11 refeitos (gancho no quadro 0, carrosséis 9:16, legendas com termos de busca). Atenção: há uma cópia do c02 criada manualmente para 18/11 12:00 (uuid 5138168487272793679), que repete um post já publicado em 12/11.
