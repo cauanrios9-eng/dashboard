@@ -347,11 +347,11 @@ CARROSSEIS += [
              "acao": "Salva e comenta AUTOMAÇÃO"},
         ],
         "legenda": (
-            "\"quanto custa?\" é a pergunta que mais chega no WhatsApp. e a resposta que mais perde venda é o preço sozinho.\n\n"
-            "3 jeitos de responder que mantêm a conversa viva. o 3º é o que mais fecha.\n\n"
+            "como responder \"quanto custa?\" no WhatsApp sem perder o cliente.\n\n"
+            "o preço sozinho faz o cliente comparar e sumir. passa pros 3 jeitos que mantêm a conversa viva. o 3º é o que mais fecha.\n\n"
             "salva pra usar hoje."
         ),
-        "hashtags": ["#vendaspelowhatsapp", "#atendimentoaocliente", "#dicasdevendas", "#pequenasempresas"],
+        "hashtags": ["#vendaspelowhatsapp", "#whatsappbusiness", "#dicasdevendas", "#atendimentoaocliente"],
     },
     {
         "id": "c08",

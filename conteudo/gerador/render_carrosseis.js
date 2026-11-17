@@ -1,40 +1,41 @@
-// Gera os slides dos carrosséis em PNG 1080x1350 (4:5).
+// Gera os slides dos carrosséis em JPG 1080x1920 (9:16, formato nativo do TikTok).
+// Área segura: legenda/botões do TikTok cobrem ~420px embaixo e ~150px à direita.
 // uso: node render_carrosseis.js [id ...]
 const fs = require('fs');
 const path = require('path');
 const { chromium } = require('playwright');
 const { FONT_LINK, BASE_CSS, BRAND_HTML, esc } = require('./estilo');
 
-const W = 1080, H = 1350;
+const W = 1080, H = 1920;
 const dados = JSON.parse(fs.readFileSync(path.join(__dirname, 'posts.json'), 'utf8'));
 const SAIDA = path.join(__dirname, '..', 'midia', 'carrosseis');
 
 const CSS = BASE_CSS + `
 .slide{position:relative;width:${W}px;height:${H}px;overflow:hidden}
-.wrap{position:absolute;inset:0;padding:90px 90px 80px;display:flex;flex-direction:column}
+.wrap{position:absolute;inset:0;padding:150px 150px 430px 80px;display:flex;flex-direction:column}
 .top{display:flex;justify-content:space-between;align-items:center}
 .count{font-size:24px;color:var(--muted)}
 .mid{flex:1;display:flex;flex-direction:column;justify-content:center}
 .foot{display:flex;justify-content:space-between;align-items:center;color:var(--muted);font-size:26px}
 .swipe{display:flex;align-items:center;gap:12px;color:var(--text);font-weight:500}
 .swipe b{display:inline-flex;width:56px;height:56px;border-radius:50%;background:var(--blue);align-items:center;justify-content:center;font-size:30px;color:#fff}
-.kicker{display:inline-block;align-self:flex-start;font-size:26px;letter-spacing:3px;color:var(--green);border:2px solid rgba(61,214,140,.4);background:rgba(61,214,140,.08);padding:12px 22px;border-radius:999px;margin-bottom:44px}
-.capa h1{font-size:100px;line-height:1.02;font-weight:800;letter-spacing:-3px}
-.capa .sub{margin-top:44px;font-size:38px;color:var(--orange);font-weight:500}
-.num{font-size:150px;font-weight:800;line-height:1;letter-spacing:-4px;background:linear-gradient(135deg,var(--blue),var(--green));-webkit-background-clip:text;color:transparent;margin-bottom:36px}
-.item h2{font-size:76px;line-height:1.06;font-weight:800;letter-spacing:-2px}
-.item p,.ad p{margin-top:36px;font-size:42px;line-height:1.35;color:#c4c9d9}
+.kicker{display:inline-block;align-self:flex-start;font-size:32px;letter-spacing:3px;color:var(--green);border:2px solid rgba(61,214,140,.4);background:rgba(61,214,140,.08);padding:12px 22px;border-radius:999px;margin-bottom:44px}
+.capa h1{font-size:118px;line-height:1.02;font-weight:800;letter-spacing:-3px}
+.capa .sub{margin-top:50px;font-size:48px;color:var(--orange);font-weight:500}
+.num{font-size:190px;font-weight:800;line-height:1;letter-spacing:-4px;background:linear-gradient(135deg,var(--blue),var(--green));-webkit-background-clip:text;color:transparent;margin-bottom:36px}
+.item h2{font-size:92px;line-height:1.06;font-weight:800;letter-spacing:-2px}
+.item p,.ad p{margin-top:40px;font-size:52px;line-height:1.35;color:#c4c9d9}
 .card{background:rgba(26,30,40,.85);border:2px solid rgba(255,255,255,.08);border-radius:32px;padding:48px 52px}
-.ad .tag{font-size:26px;letter-spacing:3px;font-weight:700;margin-bottom:18px}
-.ad .mito{font-size:64px;font-weight:800;line-height:1.08;letter-spacing:-1.5px}
+.ad .tag{font-size:32px;letter-spacing:3px;font-weight:700;margin-bottom:18px}
+.ad .mito{font-size:76px;font-weight:800;line-height:1.08;letter-spacing:-1.5px}
 .ad .mito.x{text-decoration:line-through;text-decoration-thickness:6px;text-decoration-color:var(--red);color:#aeb3c4}
 .ad .seta{font-size:30px;letter-spacing:3px;color:var(--green);font-weight:700;margin:44px 0 0}
-.lista h2{font-size:80px;font-weight:800;letter-spacing:-2px;margin-bottom:48px}
-.lista li{list-style:none;font-size:46px;line-height:1.25;padding:30px 0 30px 80px;position:relative;border-bottom:2px solid rgba(255,255,255,.07)}
+.lista h2{font-size:96px;font-weight:800;letter-spacing:-2px;margin-bottom:48px}
+.lista li{list-style:none;font-size:54px;line-height:1.25;padding:30px 0 30px 80px;position:relative;border-bottom:2px solid rgba(255,255,255,.07)}
 .lista li:before{content:"✓";position:absolute;left:0;top:28px;width:54px;height:54px;border-radius:14px;background:rgba(61,214,140,.15);color:var(--green);font-weight:800;display:flex;align-items:center;justify-content:center;font-size:32px}
-.cta h2{font-size:88px;line-height:1.04;font-weight:800;letter-spacing:-2.5px}
-.cta p{margin-top:40px;font-size:44px;line-height:1.35;color:#c4c9d9}
-.cta .btn{margin-top:64px;align-self:flex-start;background:linear-gradient(135deg,var(--blue),#3a74e0);color:#fff;font-size:40px;font-weight:700;padding:30px 46px;border-radius:22px;box-shadow:0 20px 60px rgba(79,142,247,.35)}
+.cta h2{font-size:104px;line-height:1.04;font-weight:800;letter-spacing:-2.5px}
+.cta p{margin-top:44px;font-size:52px;line-height:1.35;color:#c4c9d9}
+.cta .btn{margin-top:70px;align-self:flex-start;background:linear-gradient(135deg,var(--blue),#3a74e0);color:#fff;font-size:46px;font-weight:700;padding:30px 46px;border-radius:22px;box-shadow:0 20px 60px rgba(79,142,247,.35)}
 `;
 
 function corpoSlide(s) {
